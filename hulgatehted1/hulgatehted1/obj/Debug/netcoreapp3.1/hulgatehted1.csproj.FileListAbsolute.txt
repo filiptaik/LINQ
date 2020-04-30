@@ -1,0 +1,13 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\bin\Debug\netcoreapp3.1\hulgatehted1.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\bin\Debug\netcoreapp3.1\hulgatehted1.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\bin\Debug\netcoreapp3.1\hulgatehted1.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\bin\Debug\netcoreapp3.1\hulgatehted1.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\bin\Debug\netcoreapp3.1\hulgatehted1.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\bin\Debug\netcoreapp3.1\hulgatehted1.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.csprojAssemblyReference.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\hulgatehted1\hulgatehted1\obj\Debug\netcoreapp3.1\hulgatehted1.genruntimeconfig.cache

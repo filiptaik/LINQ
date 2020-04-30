@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "n2itrakendus/1.0.0": {
+        "runtime": {
+          "n2itrakendus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "n2itrakendus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

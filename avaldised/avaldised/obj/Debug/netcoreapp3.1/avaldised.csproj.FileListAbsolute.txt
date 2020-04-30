@@ -1,0 +1,12 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\bin\Debug\netcoreapp3.1\avaldised.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\bin\Debug\netcoreapp3.1\avaldised.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\bin\Debug\netcoreapp3.1\avaldised.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\bin\Debug\netcoreapp3.1\avaldised.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\bin\Debug\netcoreapp3.1\avaldised.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\bin\Debug\netcoreapp3.1\avaldised.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\obj\Debug\netcoreapp3.1\avaldised.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\obj\Debug\netcoreapp3.1\avaldised.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\obj\Debug\netcoreapp3.1\avaldised.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\obj\Debug\netcoreapp3.1\avaldised.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\obj\Debug\netcoreapp3.1\avaldised.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\avaldised\avaldised\obj\Debug\netcoreapp3.1\avaldised.genruntimeconfig.cache

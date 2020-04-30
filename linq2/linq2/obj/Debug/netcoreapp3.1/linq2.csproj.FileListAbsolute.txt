@@ -1,0 +1,12 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\obj\Debug\netcoreapp3.1\linq2.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\obj\Debug\netcoreapp3.1\linq2.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\obj\Debug\netcoreapp3.1\linq2.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\bin\Debug\netcoreapp3.1\linq2.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\bin\Debug\netcoreapp3.1\linq2.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\bin\Debug\netcoreapp3.1\linq2.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\bin\Debug\netcoreapp3.1\linq2.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\bin\Debug\netcoreapp3.1\linq2.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\bin\Debug\netcoreapp3.1\linq2.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\obj\Debug\netcoreapp3.1\linq2.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\obj\Debug\netcoreapp3.1\linq2.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq2\linq2\obj\Debug\netcoreapp3.1\linq2.genruntimeconfig.cache

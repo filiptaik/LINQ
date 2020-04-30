@@ -1,0 +1,12 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\ylesanne3\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.genruntimeconfig.cache

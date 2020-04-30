@@ -1,0 +1,13 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.csprojAssemblyReference.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.genruntimeconfig.cache

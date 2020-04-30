@@ -1,0 +1,12 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\bin\Debug\netcoreapp3.1\tekstifailid.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\bin\Debug\netcoreapp3.1\tekstifailid.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\bin\Debug\netcoreapp3.1\tekstifailid.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\bin\Debug\netcoreapp3.1\tekstifailid.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\bin\Debug\netcoreapp3.1\tekstifailid.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\bin\Debug\netcoreapp3.1\tekstifailid.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\obj\Debug\netcoreapp3.1\tekstifailid.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\obj\Debug\netcoreapp3.1\tekstifailid.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\obj\Debug\netcoreapp3.1\tekstifailid.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\obj\Debug\netcoreapp3.1\tekstifailid.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\obj\Debug\netcoreapp3.1\tekstifailid.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\tekstifailid\tekstifailid\obj\Debug\netcoreapp3.1\tekstifailid.genruntimeconfig.cache

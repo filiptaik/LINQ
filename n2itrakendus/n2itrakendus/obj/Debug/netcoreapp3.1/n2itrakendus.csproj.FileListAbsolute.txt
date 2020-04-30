@@ -1,0 +1,13 @@
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\bin\Debug\netcoreapp3.1\n2itrakendus.exe
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\bin\Debug\netcoreapp3.1\n2itrakendus.deps.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\bin\Debug\netcoreapp3.1\n2itrakendus.runtimeconfig.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\bin\Debug\netcoreapp3.1\n2itrakendus.runtimeconfig.dev.json
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\bin\Debug\netcoreapp3.1\n2itrakendus.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\bin\Debug\netcoreapp3.1\n2itrakendus.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.csprojAssemblyReference.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.dll
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.pdb
+D:\Users\F I L I P\Documents\GitHub\LINQ\n2itrakendus\n2itrakendus\obj\Debug\netcoreapp3.1\n2itrakendus.genruntimeconfig.cache

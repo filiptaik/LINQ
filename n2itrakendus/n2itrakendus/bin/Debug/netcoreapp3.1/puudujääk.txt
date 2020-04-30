@@ -1,0 +1,4 @@
+Jook3 -  puudu:  8.50dl, hind detsiliitri kohta: 5€, maksumus: 42.5€
+Jook1 -  puudu:  1.50dl, hind detsiliitri kohta: 3€, maksumus: 4.5€
+Jook4 -  puudu:  1.00dl, hind detsiliitri kohta: 2€, maksumus: 2€
+Jook2 -  puudu:  0.00dl, hind detsiliitri kohta: 4€, maksumus: 0€
